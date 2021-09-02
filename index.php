@@ -189,7 +189,7 @@
     <div class="timeline">
       <div class="timeline-card timeline-card-success card shadow-sm">
         <div class="card-body">
-          <div class="h5 mb-1">Technical Degree, Software Analyst and Developer <span class="text-muted h6">from University Santo Tómas</span></div>
+          <div class="h5 mb-1">Technical Degree, Software Analyst and Developer <span class="text-muted h6">from Santo Tómas University</span></div>
           <div class="text-muted text-small mb-2">2019 - 2021</div>
           <div>Got the knowledge to develop strong and reliable software understanding the needs of the clients. Design sustainable projects with scalability in mind all the time.</div>
         </div>
